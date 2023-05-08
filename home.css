@@ -162,7 +162,7 @@ display: block;
 }
 
 
-.workflow{
+/* .workflow{
     background-color: #ccffcc;
     align-items: center;
     justify-content: space-around;
@@ -205,4 +205,53 @@ display: block;
     height: 20%;
     width:20% ;
     
+} */
+
+.workflow{
+    background-color: #00cc7a;
+    align-items: center;
+    justify-content: space-around;
+    /* display: flex; */
+
+}
+.work{
+    padding: 5% 5%;
+}
+.work-heading {
+    padding: 1%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.workflow h4{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.workflow p{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+}
+
+.workflow ul{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration: 0;
+    display:table;
+    margin: 0 auto;
+}
+
+.work-content{
+    align-items: center;
+}
+.listdecimal{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration: 0;
 }

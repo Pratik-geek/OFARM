@@ -8,12 +8,23 @@ body{
     font-family: sans-serif;
 }
 .navbar{
+    overflow: hidden;
     margin-top: auto;
     padding-top: 1%;
     margin-bottom: auto;
     padding-bottom: 1%;
 }
 
+/* navbar udpate */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
 
 footer{
     position: relative;

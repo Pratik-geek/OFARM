@@ -2,6 +2,19 @@
     margin: 0 0 0 0;
     padding: 0 0 0 0;
 }
+.form-signup{
+			margin : 0 auto;
+			max-width: 400px;
+			background-color: white;
+			padding: 20px;
+		}        
+        h1{
+			text-align: center;
+		}
+		
+        .formerror {
+        color: red;
+        }
 
 body{
     /* background-color:#888; */
